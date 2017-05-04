@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-来留言吧 [blog.hlht666.com](blog.hlht666.com)
+来留言吧 [blog.hlht666.com](http://blog.hlht666.com)
