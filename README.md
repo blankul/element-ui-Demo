@@ -1,18 +1,18 @@
-# 89898
+# 这是一个可以快速上手（element-ui + vue) 的模板
 
-> A Vue.js project
+> A Vue&element-ui.js project
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# install dependencies  // 安装开发依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:666 // 启动热加载的服务器：localhost:666
 npm run dev
 
-# build for production with minification
+# build for production with minification // 生成产品
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+来留言吧 [blog.hlht666.com](blog.hlht666.com)
