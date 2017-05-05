@@ -1,10 +1,14 @@
 <template>
-  <el-date-picker
-    v-model="value1"
-    type="date"
-    placeholder="选择日期"
-    :picker-options="pickerOptions0">
-  </el-date-picker>
+  <div>
+    <!-- <el-date-picker
+      v-model="value1"
+      type="date"
+      placeholder="选择日期"
+      :picker-options="pickerOptions0">
+    </el-date-picker> -->
+    <router-view></router-view>
+  </div>
+ 
 </template>
 
 <script>
@@ -34,21 +38,4 @@ export default {
   margin-top: 60px;
 }
 
-h1, h2 {
-  font-weight: normal;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-
-a {
-  color: #42b983;
-}
 </style>
